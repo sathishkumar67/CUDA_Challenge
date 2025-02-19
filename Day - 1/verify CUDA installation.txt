@@ -1,0 +1,5 @@
+# Check if CUDA is installed
+nvcc --version
+
+# Run the device query example:
+nvidia-smi
